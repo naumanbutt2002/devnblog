@@ -6,11 +6,11 @@ export default function About() {
       <div className="max-w-2xl mx-auto p-3 text-center">
         <div>
           <h1 className="text-3xl font font-semibold text-center my-7">
-            About Muhammad Nauman's Blog
+            About DevN Blog
           </h1>
           <div className="text-md text-gray-500 flex flex-col gap-6">
             <p>
-             Welcome to Muhammad Nauman's Blog! This blog 
+             Welcome to DevN Blog! This blog 
              is a personal project where I share my journey as a passionate 22-year-old entrepreneur
               and a Software Engineer eager to create impactful solutions through technology.
                With a strong foundation in programming and AI, I am on a mission to make a difference in the tech world.
